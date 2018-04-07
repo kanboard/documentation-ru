@@ -1,20 +1,17 @@
-.. Kanboard documentation master file, created by
-   sphinx-quickstart on Thu Apr  5 17:29:01 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Kanboard
+========
 
-Welcome to Kanboard's documentation!
-====================================
+Kanboard - бесплатное программное обеспечение для управления проектами Kanban с открытым исходным кодом.
+
+- Официальный веб-сайт: https://kanboard.org
+- Баг трекер: https://github.com/kanboard/kanboard/issues
+- Форум: https://github.com/kanboard/forum/issues
+- Новостная лента: https://github.com/kanboard/kanboard/releases.atom
+- Mastodon: https://mastodon.social/@kanboard
+- IRC: #kanboard на Freenode
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+    :maxdepth: 2
+    :caption: Содержание
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+    user_guide/index
