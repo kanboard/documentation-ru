@@ -5,7 +5,7 @@ Kanboard - бесплатное программное обеспечение д
 
 - Официальный веб-сайт: https://kanboard.org
 - Баг трекер: https://github.com/kanboard/kanboard/issues
-- Форум: https://github.com/kanboard/forum/issues
+- Форум: https://kanboard.discourse.group/
 - Новостная лента: https://github.com/kanboard/kanboard/releases.atom
 - Mastodon: https://mastodon.social/@kanboard
 - IRC: #kanboard на Freenode
