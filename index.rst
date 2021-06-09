@@ -8,7 +8,6 @@ Kanboard - бесплатное программное обеспечение д
 - Форум: https://kanboard.discourse.group/
 - Новостная лента: https://github.com/kanboard/kanboard/releases.atom
 - Mastodon: https://mastodon.social/@kanboard
-- IRC: #kanboard на Freenode
 
 .. toctree::
     :maxdepth: 2
